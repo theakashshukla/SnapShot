@@ -98,7 +98,6 @@ input {
   background-color: #edeff0;
   padding: 10px 15px;
   border: 3px solid #d7dbdf;
-  border-right: none;
   border-radius: 0.35em 0 0 0.35em;
   outline: none;
 }
@@ -130,10 +129,11 @@ input {
 }
 
 .photo-container ul li {
-  width: 220px;
-  height: 165px;
+  width: 300px;
+  height: 185px;
   overflow: hidden;
   margin-bottom: 15px;
+  border-radius: 7px;
 }
 
 .photo-container ul img {
