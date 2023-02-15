@@ -28,7 +28,7 @@ class App extends Component {
                 />
               )}
             />
-            <Switch> //Hello
+            <Switch> 
               <Route
                 exact
                 path="/"
